@@ -21,3 +21,19 @@
   text-decoration: none;
   font-size: 18px;
  }
+ #hero h1{
+  font-size: 55px;
+  font-weight: bolder;
+  margin-bottom: 16px;
+  color: rgb(3, 34, 126);
+ }
+ #hero h2 {
+  font-size: 35px;
+  color: #14a00f;
+ }
+ #hero{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 100px;
+ }
